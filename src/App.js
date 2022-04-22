@@ -53,8 +53,6 @@ const data = [
   },
 ];
 
-
-
 function App() {
   return (
       <ResponsiveContainer  width="100%" aspect={3}>
